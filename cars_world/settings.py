@@ -106,7 +106,7 @@ WSGI_APPLICATION = 'cars_world.wsgi.application'
 
  #Database
 #https://docs.djangoproject.com/en/4.0/ref/settings/#databases
-
+#checking1
 DATABASES = {
     'default': {
             'ENGINE': 'django.db.backends.postgresql',
